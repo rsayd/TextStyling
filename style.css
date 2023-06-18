@@ -1,0 +1,18 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+#blue {
+    color: turquoise
+}
+h2 {
+    background-color: magenta;
+    text-align: center;
+}
+h3 {
+    background-color: lightblue;
+    font-family: cursive;
+    text-decoration: underline;
+    color: black;
+    text-align: right;
+}
